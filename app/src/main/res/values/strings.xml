@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PL_DaggerHilt_25min</string>
+    <string name="string_to_inject">This is string #2 we will inject.</string>
+</resources>
